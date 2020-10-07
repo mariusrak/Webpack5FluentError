@@ -20,3 +20,11 @@ To run:
 > npm i
 > npx webpack
 ```
+
+To compare:
+```
+> npm i webpack@5.0.0-beta.29
+> npx webpack
+```
+
+Works as expected: no error, bundle is compiled.
